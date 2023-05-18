@@ -32,3 +32,9 @@ The term "statistical process control" (SPC) refers to the application of statis
 
 
 ![spc2 dashboard](https://github.com/taufiqrochman/Portofolio-Projects/blob/main/spc%20minmax.png?raw=true)
+
+## Tableau Dashboard
+
+### Covid 19 Data Exploration
+[My Tableau Public](https://public.tableau.com/app/profile/taufiq.rochman/viz/Covid19AsiaDashboard/Dashboard1?publish=yes)
+![tableau dashboard](https://github.com/taufiqrochman/Portofolio-Projects/blob/main/Covid%20Tableau%20dashboard.png?raw=true)
