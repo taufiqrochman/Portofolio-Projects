@@ -1,3 +1,5 @@
+--Data set Source: https://ourworldindata.org/covid-deaths
+
 --Query Tabel covid_deaths
 --Select semua data di tabel [[covid_deaths]] yang berlokasi di Asia dan mengurutkan berdasarkan tanggal dari yang terdahulu
 SELECT*FROM [dbo].[covid_deaths]
